@@ -18,8 +18,7 @@
 
 		public static int add(int a, int b)
 		{
-			// intentional bug to fix
-			return a - b;
+			return a + b;
 		}
 	}
 }
