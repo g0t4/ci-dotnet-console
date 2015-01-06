@@ -25,5 +25,11 @@
 		{
 			return a + b;
 		}
+
+		// method name intentionally lower case for code inspections demo
+		public static int subtract(int a, int b)
+		{
+			return a - b;
+		}
 	}
 }
